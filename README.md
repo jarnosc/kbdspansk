@@ -1,4 +1,4 @@
 # kbdspansk
 
-A collection of English/Spanish/Danorsk keyboards for programmers.
+A collection of Spanglish/Danorsk keyboards for programmers.
 
