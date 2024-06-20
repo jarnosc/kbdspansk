@@ -1,4 +1,4 @@
-# kbdspansk
+# kbdlab
 
-A collection of Spanglish/Danorsk keyboard layouts.
+A collection of custom keyboard layouts and tools.
 
