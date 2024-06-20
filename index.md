@@ -1,5 +1,5 @@
 # kbdspansk
 
-A small collection of English/Spanish/Danorsk keyboards for programmers.
+A small collection of Spanglish/Danorsk keyboards.
 
-The [Antillansk](kbdno029) and [Aztekansk](kbdno484) keyboards, for Caribbean (North American) English and Mexican Spanish, are the first examples.
+The [Antillansk](kbdno029.json) and [Aztekansk](kbdno484.json) keyboards, for Caribbean English and Mexican Spanish, are the first examples.
