@@ -1,5 +1,5 @@
-# kbdspansk
+# kbdlab
 
-A small collection of Spanglish/Danorsk keyboards.
+A collection of custom keyboard layouts and tools.
 
-The [Antillansk](kbdno029.json) and [Aztekansk](kbdno484.json) keyboards, for Caribbean English and Mexican Spanish, are the first examples.
+The [Antillanorsk](kbdno029) and [Aztekansk](kbdno484) keyboards, for Caribbean English and Mexican Spanish, are the first examples.
