@@ -1,4 +1,8 @@
 #!/bin/perl
+#
+# this version works with utf16 encoded klc files, 
+# such as those produced directly by microsoft keyboard layout creator (msklc)
+#
 use warnings;
 use strict;
 
