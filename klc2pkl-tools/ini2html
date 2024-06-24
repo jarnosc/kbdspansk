@@ -1,6 +1,10 @@
 #!/bin/perl
+#
+# this script produces an html file with the keyboard layout of the input layout 
+# in the current directory.
+#
 # use encoding "utf8", STDOUT => "utf8";
-#use diagnostics;
+# use diagnostics;
 use utf8;
 use warnings;
 use strict;
