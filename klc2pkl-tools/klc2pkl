@@ -1,6 +1,7 @@
 #!/usr/bin/env perl 
 #
-# this version works with klc files encoded in utf8, as those produced by klfc
+# this version works with klc files encoded in utf8, 
+# such as those produced by keyboard layout file creator (klfc)
 #
 # use encoding "utf8", STDOUT => "utf8";
 # use diagnostics;
